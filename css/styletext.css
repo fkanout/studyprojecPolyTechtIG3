@@ -1,0 +1,21 @@
+input[type=text] {left:50px ; padding:2px; border:2px solid #ccc; 
+-webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=date] {left:50px ; padding:2px; border:2px solid #ccc; 
+-webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+
+
+
+input[type=text]:focus {border-color:#333; }
+input[type=date]:focus {border-color:#333; }
+
+input[type=submit] {padding:5px 15px; background:#ccc; border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
